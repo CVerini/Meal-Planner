@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+    color: white;
+    padding: 2%;
+}
+
+h2 {
+    text-align: center;
+    color: lightskyblue;
+}
+
+body {
+    background-color: rgb(49, 49, 49);
+}
+
+.card {
+    background-color: rgb(49, 49, 49); 
+    color: lightskyblue; 
+    border: none; 
+}
